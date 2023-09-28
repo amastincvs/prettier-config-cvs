@@ -1,0 +1,10 @@
+{
+  "name": "prettier-config-cvs",
+  "version": "0.0.0",
+  "main": "index.js",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^20.4.6",
+    "tsconfig": "workspace:*"
+  }
+}
